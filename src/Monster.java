@@ -1,4 +1,5 @@
 public class Monster {
-    int hp = 20;
+    int hp = 200;
+    String name;
 
 }
